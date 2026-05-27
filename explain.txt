@@ -1,3 +1,5 @@
 in function main -> get two function 
 first function work on genarating no between from number ... to number enterd by user name
 second function work on print list from type string 
+
+this is extensions by second member hatemaltaee0_byte

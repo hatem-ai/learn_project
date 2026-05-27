@@ -5,7 +5,7 @@ using namespace std;
 
 int main (){
     srand(time(0));
-    cout << "  hatem altaee " << endl;
+    cout << "  hatem altaee altaee " << endl;
     int randomNumber = RandomNumber(10,99);
     cout << " Random number = [" << randomNumber << "]" << endl;
     vector<string> List = {"hatem","ali","mohammed","obaida"};
